@@ -5,7 +5,7 @@
 
 'use strict';
 
-var axletree = require('./lib/axletree-kernel');
+var axletree = require('axletree-kernel');
 
 var app = axletree.bootstrap({
     rootPath: __dirname
