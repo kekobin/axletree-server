@@ -10,6 +10,11 @@ module.exports = {
 					}
 				],
 				"cache": true
+			},
+			{
+				"page": "main",
+				"urls": [],
+				"cache": true
 			}
 		]
 	}
