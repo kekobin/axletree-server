@@ -5,6 +5,6 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "axletree-kernel": "0.0.3"
+    "axletree-kernel": "latest"
   }
 }
